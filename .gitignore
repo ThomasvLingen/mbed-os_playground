@@ -1,1 +1,4 @@
 mbed-os
+BUILD
+__pycache__
+mbed_settings.py
