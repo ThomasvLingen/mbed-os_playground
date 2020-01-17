@@ -1,4 +1,14 @@
+# mbed-os lib
 mbed-os
-BUILD
+
+# mbed-cli generated tool files
 __pycache__
 mbed_settings.py
+mbed_config.h
+
+# Compilation
+BUILD
+
+# mbed export stuff
+GettingStarted.html
+Makefile
